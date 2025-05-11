@@ -26,12 +26,15 @@ Identified business-relevant questions to guide the analysis, such as:
 Which outlet types generate the highest sales?
 What item categories perform best?
 How does fat content impact product performance?
+
 **2. Data Cleaning & Preprocessing:**
 Remove duplicates and nulls.
 Normalize inconsistent data entries (e.g., outlet sizes, item types).
+
 **3. Data Modeling in Power BI:**
 Defined calculated columns and measures using DAX for:
 Total Sales, Average Sales, No. of Items, Rating Trends, Yearly Growth
+
 **4. Dashboard Design & Visualization:**
 Designed an intuitive and interactive dashboard using:
 Slicers for Outlet Type, Size, Location, Fat Content, and Item Type.
@@ -39,9 +42,11 @@ KPI cards for high-level business metrics.
 Bar/column charts for sales by item, outlet type, and fat content.
 Line graphs for time series insights (e.g., establishment trends).
 Donut and pie charts for category breakdowns.
+
 **5. Insight Generation:**
 Generated business recommendations (e.g., focusing on high-performing outlet types, understanding regional sales behavior).
 Structured findings into a data story suitable for stakeholders
+
 **6. Used SQL to:**
 Clean data, Remove duplicates and nulls.
 Normalize inconsistent data entries (e.g., outlet sizes, item types).
@@ -50,3 +55,6 @@ Fired queries to answer business requirements.
 ## Dashboard
 
 ![Screenshot (30)](https://github.com/user-attachments/assets/ceaf0fd3-fd02-423b-92b3-8907f15cae54)
+
+## OneDrive file of the project
+- <a href="https://1drv.ms/f/c/f6a9d08b0faa302a/EmGDRbw5UCJNrQr0FKKwu6ABCm9wTuhDOzIn8E7ZyCBibA?e=cap8Ia">Onedrive Link</a>
