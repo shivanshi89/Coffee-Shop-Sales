@@ -1,1 +1,2 @@
-# Coffee-Shop-Sales
+# Coffee-Shop-Sales Analysis (Interactive Power BI dashboard & SQL Queries)
+An interactive business intelligence project analyzing coffee shop sales performance using **Power BI** & **SQL**. The dashboard offers detailed insights into sales trends, item performance, and outlet-level analytics to help stakeholders make informed decisions. Queried the dataset to answer business requiremnts and verify the output with the dashboard.
